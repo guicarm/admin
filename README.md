@@ -32,9 +32,9 @@ O projeto Admin oferece uma camada de observabilidade e administração para o s
 ### Passos para Execução
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/guicarm/admin
-   
+```bash
+git clone https://github.com/guicarm/admin
+```
 
 2. Abra a pasta do projeto no seu terminal e digite:
 ```bash

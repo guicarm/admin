@@ -41,4 +41,4 @@ O projeto Admin oferece uma camada de observabilidade e administração para o s
 code .
 ```
 
-- Agora com o Visual Studio aberto, rode a aplicação à partir do arquivo ```AdminApplication.java```.
+3. Agora com o Visual Studio aberto, rode a aplicação à partir do arquivo ```AdminApplication.java```.
